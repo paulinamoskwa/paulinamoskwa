@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **PaulinoMoskwa/PaulinoMoskwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+    <img src="./images/gif_00.gif" alt="drawing" width="600"/>
+</p>
