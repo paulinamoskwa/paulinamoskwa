@@ -14,19 +14,19 @@ Here are some ideas to get you started:
 -->
 
 
-Machine learning engineer working in computer vision related fields.
+Machine learning engineer working in computer vision related fields.<br>
 I enjoy learning and mastering new skills, now more than ever with my friendo ChatGPT 🤖
 
-- 💻 Programming things in Python and C++
-- 🧠 Artificial Intelligence
-- 👀 Computer Vision
-- ✨ Augmented Reality
-- 🧙‍♂️ Unity and Blender, mostly for CV applications, but also for digital art
+💻 Programming things in Python and C++<br>
+🧠 Artificial Intelligence<br>
+👀 Computer Vision<br>
+✨ Augmented Reality<br>
+🧙‍♂️ Unity and Blender, mostly for CV applications, but also for digital art<br>
 
-Find out more @
-🪪 Portfolio: https://paulinomoskwa.github.io/Hello/
-💼 LinkedIn: https://www.linkedin.com/in/paulina-moskwa/
-📬 Mail: pau.moskwa@gmail.com
+Find out more @<br>
+🪪 Portfolio: https://paulinomoskwa.github.io/Hello/<br>
+💼 LinkedIn: https://www.linkedin.com/in/paulina-moskwa/<br>
+📬 Mail: pau.moskwa@gmail.com<br>
 
 
 <p align="center">
