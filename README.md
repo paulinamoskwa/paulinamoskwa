@@ -12,10 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi yall! I'm Paulina 👋
+### Hi yall, I'm Paulina 👋
 
-AI practitioner and bugs hunter 🐞
-
+AI practitioner and bugs hunter 🐞<br>
 I enjoy learning and mastering new skills, now more than ever with my friendo ChatGPT 🤖
 
 💻 Programming things in Python and C++<br>
