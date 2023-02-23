@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 -->
 ### Hi yall, I'm Paulina 👋
 
-<br>
 AI practitioner and bugs hunter 🐞<br>
 I enjoy learning and mastering new skills, now more than ever with my friendo ChatGPT 🤖<br><br>
-
 
 💻 Programming things in Python and C++<br>
 🧠 Artificial Intelligence<br>
