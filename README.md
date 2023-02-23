@@ -12,9 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
+# Hello!
+## I'm Paulina Moskwa
+### AI practitioner and bugs hunter 🐞
 
-
-Machine learning engineer working in computer vision related fields.<br>
 I enjoy learning and mastering new skills, now more than ever with my friendo ChatGPT 🤖
 
 💻 Programming things in Python and C++<br>
