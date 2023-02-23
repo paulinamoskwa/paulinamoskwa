@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi yall! I'm Paulina, AI practitioner and bugs hunter 🐞
+### Hi yall! I'm Paulina 👋
+
+AI practitioner and bugs hunter 🐞
 
 I enjoy learning and mastering new skills, now more than ever with my friendo ChatGPT 🤖
 
@@ -20,9 +22,10 @@ I enjoy learning and mastering new skills, now more than ever with my friendo Ch
 🧠 Artificial Intelligence<br>
 👀 Computer Vision<br>
 ✨ Augmented Reality<br>
-🧙‍♂️ Unity and Blender, mostly for CV applications, but also for digital art<br>
+🧙‍♂️ Unity and Blender, mostly for CV applications, but also for digital art<br><br>
 
-Find out more @<br>
+Find out more @
+
 🪪 Portfolio: https://paulinomoskwa.github.io/Hello/<br>
 💼 LinkedIn: https://www.linkedin.com/in/paulina-moskwa/<br>
 🐦 Twitter: https://twitter.com/PaulinoMoskwa<br>
