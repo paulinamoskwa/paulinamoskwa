@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>
 # Hello!
 ## I'm Paulina Moskwa
 ### AI practitioner and bugs hunter 🐞
