@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>
-
 ### Hi yall, I'm Paulina 👋
 
 <br>
