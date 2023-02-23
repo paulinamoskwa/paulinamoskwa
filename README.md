@@ -26,7 +26,10 @@ I enjoy learning and mastering new skills, now more than ever with my friendo Ch
 Find out more @<br>
 🪪 Portfolio: https://paulinomoskwa.github.io/Hello/<br>
 💼 LinkedIn: https://www.linkedin.com/in/paulina-moskwa/<br>
+🐦 Twitter: https://twitter.com/PaulinoMoskwa<br>
 📬 Mail: pau.moskwa@gmail.com<br>
+
+-----
 
 
 <p align="center">
