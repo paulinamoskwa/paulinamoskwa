@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🔭 Working on machine learning related stuff, mainly computer vision
 - 🔧 Doing things in python and C++
-- 🔍 Investigating multimodality, automatic data generation, 
+- 🔍 Investigating multimodality, automatic data generation, and huggingface hottest models
 - 🌱 Currently delving into parallel programming
 - 📍 Italian based in Finland
 
