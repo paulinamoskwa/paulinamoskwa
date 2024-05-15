@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <center>
-<img src="./images/gif_01.gif" width="100%">
+<img src="./images/gif_000.gif" width="80%">
 </center>
 
 
