@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello, I'm Paulina 👋</h1>
 <p align="center">
-    <a href="https://twitter.com/pawleenam"><img src="https://github.com/paulinamoskwa/paulinamoskwa/assets/104844027/59097176-efa4-4846-a8fb-3b580f5906e6"/>&emsp;</a>
-    <a href="https://www.linkedin.com/in/paulina-moskwa/"><img src="https://github.com/paulinamoskwa/paulinamoskwa/assets/104844027/45aec319-9040-421a-880b-3352f7083a29"/>&emsp;</a>
+    <a href="https://twitter.com/pawleenam"><img src="https://github.com/paulinamoskwa/paulinamoskwa/assets/104844027/59097176-efa4-4846-a8fb-3b580f5906e6" height="15"/></a>&emsp;
+    <a href="https://www.linkedin.com/in/paulina-moskwa/"><img src="https://github.com/paulinamoskwa/paulinamoskwa/assets/104844027/45aec319-9040-421a-880b-3352f7083a29" height="15"/></a>
 </p>
 
 <br>
