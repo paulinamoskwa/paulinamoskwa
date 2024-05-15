@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 
 
 
-![image](https://github.com/paulinamoskwa/paulinamoskwa/assets/104844027/c857dc35-bcb5-4a25-b112-93029bc05d5b)
-
+<center>
+<img src="./images/gif_01.gif" width="100%">
+</center>
 
 
 <br>
