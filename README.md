@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 <br>
 
 - 🔭 Working on machine learning related stuff, mainly computer vision
-- 🔧 Doing things in python and C++
+- 🔧 Doing things in Python and C++
 - 🔍 Investigating multimodality, automatic data generation, and huggingface hottest models
+- 📝 Writing technical content and maintaining a [blog](https://paulinamoskwa.github.io/blog/)
 - 🌱 Currently delving into parallel programming
 - 📍 Italian based in Finland
 
